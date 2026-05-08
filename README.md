@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# ai-resume-reviewer
+AI-powered resume analysis tool built with React, Flask, and Generative AI APIs.
+
+
+# AI Resume Reviewer
+
+AI-powered resume analysis tool built with React and Flask using Generative AI APIs.
+
+## Features
+- Resume analysis
+- AI-generated suggestions
+- Responsive UI
+
+## Tech Stack
+- React
+- Flask
+- Gemini API
+
+## Status
+MVP in progress
+>>>>>>> 7ebcdebb97fc11ff17d45ea090fe4b3e1d5194ce
